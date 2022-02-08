@@ -2,4 +2,6 @@ hello word git! 222222 master test
 hello word git! 222222
 hot-fix test
 hot-fix
+pull git-demo
+
 
